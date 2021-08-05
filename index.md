@@ -4,7 +4,7 @@ I am working on a Infinity LED Mirror which purpose is to effectively create and
 |:--:|:--:|:--:|:--:|
 | Giorgos Adam | Carlmont HS | Electrical Engineering | Incoming Sophmore
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Inifinity Mirror](https://hackster.imgix.net/uploads/cover_image/file/169189/P1120479.JPG?auto=compress&w=900&h=675&fit=min&fm=jpg)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
