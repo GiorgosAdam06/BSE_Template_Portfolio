@@ -1,9 +1,8 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
-
+﻿# Infinity LED Mirror/Title Goes Here
+I am working on a Infinity LED Mirror which purpose is to effectively create and infinite tunnel using the reflection of LED's between two mirrors.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Giorgos Adam | Carlmont HS | Electrical Engineering | Incoming Sophmore
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
