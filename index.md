@@ -9,15 +9,15 @@ I am working on a Infinity LED Mirror which purpose is to effectively create and
 # Final Milestone
 Text about final milestone here
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](instert video link){:target="_blank" rel="noopener"}
+[![Final Milestone](insert image)](instert video "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 Text about second milestone here
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](insert image)](insert video "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
 Text about first milestone here
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](insert image)](insert video "First Milestone"){:target="_blank" rel="noopener"}
